@@ -1,0 +1,22 @@
+.filterElem {
+  background-color: white;
+  border: 1px solid #c0c0c0;
+}
+.filter-title {
+  background-color: #2e5ea2;
+  padding: 10px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+select {
+  display: block;
+  width: 100%;
+  border: 1px solid #ddd;
+
+  height: 40px;
+  border-radius: 5px;
+}
+.filterElem > div {
+  padding: 5px 20px;
+  margin-bottom: 13px;
+}
